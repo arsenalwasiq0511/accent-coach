@@ -1,0 +1,2 @@
+Gender identification based off of pitch. The output will be a full recording from the accent archive from the origin of choice and the input file as a .wav file will be read and the fundamental frequency will be found to identify if it is female or male. Male pitch in Hz ranges from about 80-200, female 150-350.  Due to the time constraint the input file used is from the speech accent archive's United States English in male or female pitch identified by a 0 or 1, respectively in the gender_trainCap.txt
+Latest commit 
